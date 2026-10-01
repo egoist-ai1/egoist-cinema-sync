@@ -5,5 +5,7 @@
   "branch": "main",
   "publicRead": true,
   "profileDataEncrypted": true,
-  "protocol": "cinema-cloud-aes256-gcm-v1"
+  "protocol": "cinema-cloud-aes256-gcm-v1",
+  "syncAtStartup": true,
+  "pollIntervalSeconds": 3600
 }
