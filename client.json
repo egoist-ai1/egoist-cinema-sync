@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "repository": "egoist-ai1/egoist-cinema-sync",
+  "repositoryId": 1400518245,
+  "branch": "main",
+  "publicRead": true,
+  "profileDataEncrypted": true,
+  "protocol": "cinema-cloud-aes256-gcm-v1"
+}
